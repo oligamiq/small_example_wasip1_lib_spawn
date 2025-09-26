@@ -1,0 +1,10 @@
+[package]
+name = "small_example_wasip1_lib_spawn"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+crate-type = ["cdylib"]
+
+[features]
+patch = []
